@@ -733,3 +733,7 @@ a {
 
   .gallery-img img { height: 260px; }
 }
+
+.detail-group p + h4 {
+  margin-top: 1.6rem;
+}
